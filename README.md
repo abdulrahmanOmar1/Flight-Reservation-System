@@ -100,4 +100,24 @@ The GUI is built using JavaFX components and includes the following screens:
 
 ---
 
-Feel free to replace "yourusername" in the clone URL with your actual GitHub username. Let me know if you need any further adjustments or additions!
+## Screenshots 
+### Main Menu
+![1](https://github.com/user-attachments/assets/813ca87b-fca3-4764-8046-c4e4c931c6ee)
+### Read Data
+![2](https://github.com/user-attachments/assets/0f7b218a-6238-4134-be3b-f7b248dd4a62)
+### Display Flight Information
+![3](https://github.com/user-attachments/assets/2837508b-0205-4f9d-9c27-9097dab117e6)
+### Display Passenger Information
+![4](https://github.com/user-attachments/assets/a6c8da1c-70f4-41ca-b006-06f561dc005b)
+### Add/Edit Flight
+![5](https://github.com/user-attachments/assets/22eddc6d-abb4-4d24-a041-565ea59a5f2b)
+### Reserve a Ticket
+![6](https://github.com/user-attachments/assets/e583ae7d-aea8-41dd-8837-1f8fa5ffb2ed)
+### Cancel Reservation
+![7](https://github.com/user-attachments/assets/04e2b8f5-137e-4d38-ace2-98e6b73f54fd)
+### Check Ticket Reservation
+![8](https://github.com/user-attachments/assets/95c5af32-fbbc-42e8-af59-43658c90f85f)
+### Search Passenger
+![9](https://github.com/user-attachments/assets/552064d6-ac73-4a80-b874-7d0624b72a0a)
+
+
